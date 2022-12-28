@@ -1,0 +1,6 @@
+{
+    // "window.zoomLevel": 0.5,
+    "editor.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "workbench.iconTheme": "vscode-icons"
+}
