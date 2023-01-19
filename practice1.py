@@ -15,7 +15,7 @@ print('Room temp is: ', kelvin, "Kelvin")
 fahrenheitInput = float(input("Insert temperature in Fahrenheit: "))
 print("Room temp is: ", fahrenheitInput, "Fahrenheit")
 
-fahrenheitToKelvin = (fahrenheitInput + 459.67) * 5/9
+fahrenheitToKelvin = (fahrenheitInput + 459.67) * 5/96
 print('Room temp is: ', fahrenheitToKelvin, "Kelvin")
 
 kelvinInput = float(input("Insert temperature in Kelvin: "))
